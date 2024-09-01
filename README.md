@@ -1,24 +1,28 @@
-# README
+# Getting started
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  1. Install the vscode Dev Container extension.
 
-Things you may want to cover:
+  ![Dev Container](https://th.bing.com/th/id/OIP.B41PD2AKvQGTQQvg76ZJ8gHaCO?w=295&h=105&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
-* Ruby version
 
-* System dependencies
+  2. Install Docker desktop
 
-* Configuration
+    [Docker desktop](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*1i963l1*_gcl_au*NzEzNjAxMDgwLjE3MjUyMjE3NzE.*_ga*MTg2Mjk0MDIyMS4xNzI0MjQ1OTE0*_ga_XJWPQMJYHQ*MTcyNTIyMTc3MS4yLjEuMTcyNTIyMTc3MS42MC4wLjA.)
 
-* Database creation
+  3. Clone the repository
 
-* Database initialization
+  ```bash
+  https://github.com/tianosouza/tasks_organize.git
+  ```
 
-* How to run the test suite
+  4. With the dev container extension installed
 
-* Services (job queues, cache servers, search engines, etc.)
+  * In the vscode search bar type:
+    ```bash
+    Ctrl + Shift + p
+    ```
+    * Dev Container: Reopen in container
+  
 
-* Deployment instructions
-
-* ...
+      
+   
