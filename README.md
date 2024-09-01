@@ -7,7 +7,7 @@
 
   2. Install Docker desktop
 
-    [Docker desktop](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*1i963l1*_gcl_au*NzEzNjAxMDgwLjE3MjUyMjE3NzE.*_ga*MTg2Mjk0MDIyMS4xNzI0MjQ1OTE0*_ga_XJWPQMJYHQ*MTcyNTIyMTc3MS4yLjEuMTcyNTIyMTc3MS42MC4wLjA.)
+  [Docker desktop](https://www.docker.com/products/docker-desktop/)
 
   3. Clone the repository
 
