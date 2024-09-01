@@ -18,11 +18,25 @@
   4. With the dev container extension installed
 
   * In the vscode search bar type:
-    ```bash
-    Ctrl + Shift + p
-    ```
-    * Dev Container: Reopen in container
-  
 
-      
-   
+      ```bash
+      Ctrl + Shift + p
+      ```
+
+  * Dev Container: Reopen in container
+  
+  5. Then open another terminal and run the following command:
+
+  ```bash
+  ./bin/setup
+  ```
+  This will perform database preparation.
+
+  After:
+
+  ```bash
+  ./bin/dev
+  ```
+
+This will upload a local server with the system.
+
